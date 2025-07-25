@@ -42,5 +42,6 @@ This project aims to create a website where UH students can:
 - An integrated chat area similar to Discord, where students can talk about music, request songs, or connect with others
 - Overall layout is clean, simple, and visually appealing, with a fun and welcoming tone
 
-
+source 'https://rubygems.org'
+gem 'jekyll', '~> 4.3.2'
 
